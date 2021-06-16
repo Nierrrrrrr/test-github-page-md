@@ -1,2 +1,9 @@
 name: Test site
 title: Delta 小說
+
+font:
+  enable: true
+  
+  global:
+    external: true
+    family: Noto Sans TC
